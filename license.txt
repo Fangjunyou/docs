@@ -1,5 +1,0 @@
-license 1.
-license 2.
-Creating a new branch is quick and simple.
-license 3 and simple.
-license 4
